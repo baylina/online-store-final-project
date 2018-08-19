@@ -42,7 +42,8 @@ A seller of an article is not allowed to buy its own published items.
     // Serves the front-end on http://localhost:3000
     npm run dev
     ```
-8. Contract has been deployed to Rinkeby test network at address: ***0x8ef566f9896372A12b12913439AcE81419244652***
+8. Contract has been deployed to Rinkeby test network at address: [***0x75A83A845dCd006887e9cb8aB8cFCb536cdE7375***](https://rinkeby.etherscan.io/address/0x75a83a845dcd006887e9cb8ab8cfcb536cde7375) and you can interact with at
+https://baylina.github.io/online-store-final-project/
 
 
 Emergency stop is based in [Franz Volland  Contract](https://fravoll.github.io/solidity-patterns/emergency_stop.html).

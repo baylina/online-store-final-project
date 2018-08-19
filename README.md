@@ -4,13 +4,11 @@
 This DApp represents a basic online marketplace where users can sell and buy all kind of articles. Any user with enought ether assoociated to a Metamask account can publish (sell) any article.
 
 Articles offered for sale have a:
-- shotitle
+- short title
 - description
 - price (in ether)
 
 A seller of an article is not allowed to buy its own published items.
-
-Truffle Box has all you need to create a DApp by following the course delivered by [ChainSkills](https://www.udemy.com/getting-started-with-ethereum-solidity-development/).
 
 
 ## Installation. How to test it and set it up

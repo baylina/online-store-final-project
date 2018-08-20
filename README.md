@@ -46,6 +46,9 @@ A seller of an article is not allowed to buy its own published items.
 https://baylina.github.io/online-store-final-project/
 
 
+
+
+
 Emergency stop is based in [Franz Volland  Contract](https://fravoll.github.io/solidity-patterns/emergency_stop.html).
 This Dapp has been built on top of a prebuilt truffle box [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
 This DApp has been based from this ["ChainList" Coursera example](https://www.udemy.com/getting-started-with-ethereum-solidity-development/).

@@ -17,9 +17,9 @@ A seller of an article is not allowed to buy its own published items.
     ```javascript
     npm install -g truffle
     ```
-2. Unzip the file onlineShop.zip in your destination folder of your local machine
+2. Open Terminal. Change the current working directory to the location where you want the cloned directory to be made and then clone clone the project.
     ```javascript
-    unzip onlineShop.zip -d destination_folder
+    git clone https://github.com/baylina/online-store-final-project.git
     ```
 3. from your local folder install all the node modules dependencies (some warnings might appear)
     ```javascript

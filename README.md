@@ -10,6 +10,15 @@ Articles offered for sale have a:
 
 A seller of an article is not allowed to buy its own published items.
 
+You can [watch this video](https://youtu.be/9ZA30pHDypU) for a brief explanation about this final project
+
+[![Watch the video](https://i9.ytimg.com/vi/9ZA30pHDypU/mqdefault.jpg?sqp=COD_gdwF&rs=AOn4CLDbUQOruYncOA4-fY1GQV6WqtJ4Hw&time=1535148260757)](https://youtu.be/9ZA30pHDypU)
+
+
+
+
+
+
 
 ## Installation. How to test it and set it up
 

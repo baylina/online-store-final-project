@@ -49,7 +49,7 @@ You can [watch this video](https://youtu.be/9ZA30pHDypU) for a brief explanation
 7. Run the `liteserver` development server (outside the development console) for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
     ```javascript
     // Serves the front-end on http://localhost:3000
-    npm run dev
+    npm run start
     ```
 8. Contract has been deployed to Rinkeby test network at address: [***0x75A83A845dCd006887e9cb8aB8cFCb536cdE7375***](https://rinkeby.etherscan.io/address/0x75a83a845dcd006887e9cb8ab8cfcb536cde7375) and you can interact with at
 https://baylina.github.io/online-store-final-project/
